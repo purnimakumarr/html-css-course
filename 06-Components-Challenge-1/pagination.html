@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pagination Component</title>
+
+    <!-- Inter Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-size: 18px;
+        font-family: "inter", snas-serif;
+
+        display: flex;
+        justify-content: center;
+      }
+
+      .pagination {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-top: 200px;
+      }
+
+      .icon {
+        width: 24px;
+        height: 24px;
+
+        stroke: #087f5b;
+      }
+
+      .btn:hover .icon {
+        stroke: #fff;
+      }
+
+      .btn {
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        border: 1px solid #087f5b;
+        background-color: #fff;
+      }
+
+      .btn:hover {
+        cursor: pointer;
+        background-color: #087f5b;
+      }
+
+      .number:link,
+      .number:visited {
+        text-decoration: none;
+        color: #343a40;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .number:hover,
+      .number:active {
+        background-color: #087f5b;
+        cursor: pointer;
+        color: #fff;
+      }
+
+      .number.number--fill {
+        background-color: #087f5b;
+        color: #fff;
+      }
+
+      span {
+        color: #868e96;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="pagination">
+      <button class="btn btn--left">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="icon"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M15 19l-7-7 7-7"
+          />
+        </svg>
+      </button>
+
+      <a href="#" class="number">1</a>
+      <a href="#" class="number">2</a>
+      <a href="#" class="number number--fill">3</a>
+      <a href="#" class="number">4</a>
+      <a href="#" class="number">5</a>
+      <a href="#" class="number">6</a>
+      <span>...</span>
+      <a href="#" class="number">23</a>
+
+      <button class="btn btn--right">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="icon"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M9 5l7 7-7 7"
+          />
+        </svg>
+      </button>
+    </div>
+  </body>
+</html>
