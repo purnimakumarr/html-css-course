@@ -19,3 +19,25 @@ This is my code for the [Build Responsive Real-World Websites with HTML and CSS]
 | 06-CSS COMPONENT                 | In this section I build some components commonly found in most webpages (including an accordian, carousel, table, hero-section, app-layout).                                                                                                                                                                          |
 | 06-CSS COMPONENT CHALLENGE#1     | In this section I build a pagination component.                                                                                                                                                                                                                                                                       |
 | 07-OMNIFOOD                      | In this section I build a real world Omnifood website. Omnifood is an AI-powered food subscription that will make you healthy again, 365 days per year. Its tailored to your personal taste and nutrional needs.                                                                                                      |
+
+# Live sites
+
+1. [01-INTRO](https://purnimakumarr.github.io/html-css-course/01-INTRO/)
+2. [02-HTML Fundamentals](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamentals/)
+3. [02-HTML-Fundamnetals-Challenge#2](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamnetals-Challenge#2)
+4. [03-CSS FUNDAMENTALS](https://purnimakumarr.github.io/html-css-course/03-CSS-Fundamentals/)
+5. [03-CSS FUNDAMENTALS CHALLENGE#1](https://purnimakumarr.github.io/html-css-course/03-CSS-Fundamentals-Challenge-1/)
+6. [03-CSS FUNDAMENTALS CHALLENGE#2](https://purnimakumarr.github.io/html-css-course/03-CSS-Fundamentals-Challenge-2/)
+7. [03-CSS FUNDAMENTALS CHALLENGE#3](https://purnimakumarr.github.io/html-css-course/03-CSS-Fundamentals-Challenge-3/)
+8. [04-CSS LAYOUTS](https://purnimakumarr.github.io/html-css-course/04-CSS-Layouts/)
+9. [04-CSS LAYOUTS CHALLENGE#1](https://purnimakumarr.github.io/html-css-course/04-CSS-Layouts-Challenge-1/)
+10. [04-CSS LAYOUTS CHALLENGE#2](https://purnimakumarr.github.io/html-css-course/04-CSS-Layouts-Challenge-2/)
+11. [04-CSS LAYOUTS CHALLENGE#3](https://purnimakumarr.github.io/html-css-course/04-CSS-Layouts-Challenge-3/)
+12. [05-CSS DESIGN](https://purnimakumarr.github.io/html-css-course/05-Design//)
+13. 06-CSS COMPONENT
+    - [Accordian Component](https://purnimakumarr.github.io/html-css-course/06-Components/01-accordian.html)
+    - [Accordian Component](https://purnimakumarr.github.io/html-css-course/06-Components/02-carousel.html)
+    - [Accordian Component](https://purnimakumarr.github.io/html-css-course/06-Components/03-table.html)
+    - [Accordian Component](https://purnimakumarr.github.io/html-css-course/06-Components/04-hero-section.html)
+    - [Accordian Component](https://purnimakumarr.github.io/html-css-course/06-Components/05-app-layout.html)
+14. [06-CSS COMPONENT CHALLENGE#1](https://purnimakumarr.github.io/html-css-course/06-Components-Challenge-1/pagination.html)
