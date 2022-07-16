@@ -26,7 +26,7 @@ This is my code for the [Build Responsive Real-World Websites with HTML and CSS]
 
 2. [02-HTML FUNDAMENTALS](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamentals/)
 
-3. [02-HTML FUNDAMENTALS CHALLENGE#2](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamentals-Challenge#2)
+3. [02-HTML FUNDAMENTALS CHALLENGE#2](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamentals-Challeng-2)
 
 4. [03-CSS FUNDAMENTALS](https://purnimakumarr.github.io/html-css-course/03-CSS-Fundamentals/)
 
@@ -44,7 +44,7 @@ This is my code for the [Build Responsive Real-World Websites with HTML and CSS]
 
 11. [04-CSS LAYOUTS CHALLENGE#3](https://purnimakumarr.github.io/html-css-course/04-CSS-Layouts-Challenge-3/)
 
-12. [05-CSS DESIGN](https://purnimakumarr.github.io/html-css-course/05-Design//)
+12. [05-CSS DESIGN](https://purnimakumarr.github.io/html-css-course/05-Design/)
 
 13. 06-CSS COMPONENT
     - [Accordian Component](https://purnimakumarr.github.io/html-css-course/06-Components/01-accordian.html)
