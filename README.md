@@ -24,9 +24,9 @@ This is my code for the [Build Responsive Real-World Websites with HTML and CSS]
 
 1. [01-INTRO](https://purnimakumarr.github.io/html-css-course/01-INTRO/)
 
-2. [02-HTML Fundamentals](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamentals/)
+2. [02-HTML FUNDAMENTALS](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamentals/)
 
-3. [02-HTML-Fundamnetals-Challenge#2](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamnetals-Challenge#2)
+3. [02-HTML FUNDAMENTALS CHALLENGE#2](https://purnimakumarr.github.io/html-css-course/02-HTML-Fundamnetals-Challenge#2)
 
 4. [03-CSS FUNDAMENTALS](https://purnimakumarr.github.io/html-css-course/03-CSS-Fundamentals/)
 
